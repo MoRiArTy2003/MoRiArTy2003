@@ -30,7 +30,19 @@ I am a Computer Engineering graduate from Lokmanya Tilak College of Engineering,
 📌 Built a **full-stack app** with **Node.js & MongoDB** for efficient data storage and user management.  
 📌 Implemented **real-time speech-to-text & text-to-ISL conversion** using **NLP & WebSockets**.  
 
+### 📖 Log Analyzer for Firewall Log Intelligence
+📌 Technology Stack: Python, Streamlit, Pandas, Regex
+📌 Developed an interactive dashboard for parsing and visualizing Firewall logs using Streamlit
+📌Implemented security pattern detection and anomaly analysis to identify potential threats.
+📌Engineered flexible support for ingesting and processing varied log file formats.
+
+
 ## 🏢 Work Experience  
+### **💹 CyptoChakra - Machine Learning Intern (June 2025 - Present)**
+✅Designing and iterating machine learning models for Bitcoin and altcoin price prediction using Python and TensorFlow.
+✅Collaborating in agile sprints with data engineers and blockchain developers to refine forecasting models
+✅Main experiment logs, code repositories, and documented model improvements for future scalability
+
 ### **🔐 Gajshield Firewall - SDE Intern (Sep 2024 - Jan 2025)**  
 ✅ Developed a **Log Analyzer** using **Streamlit Framework**.  
 ✅ Tested connections between **data sources** to fetch log data.  
@@ -44,7 +56,7 @@ I am a Computer Engineering graduate from Lokmanya Tilak College of Engineering,
 ✅ Worked on **data labeling** for **AI applications**.  
 
 ## 🎓 Education  
-- **B.E. in Computer Science (IoT, Cybersecurity & Blockchain)** - Lokmanya Tilak College of Engineering *(CGPA: 7.60/10)* *(Expected: May 2025)*  
+- **B.E. in Computer Science (IoT, Cybersecurity & Blockchain)** - Lokmanya Tilak College of Engineering *(CGPA: 7.71/10)* *(June 2025)*  
 
 ## 🌟 Extracurricular Activities  
 - 🎓 **President, Computer Science Engineering Students Association (LTCE)**  
