@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ameya Mhatre (@MoRiArTy2003)  
 
 ## 👀 About Me  
-I am a **Computer Science Engineering** student specializing in **IoT, Cybersecurity & Blockchain** at Lokmanya Tilak College of Engineering, Navi Mumbai. Passionate about **Cybersecurity, AI/ML, and Blockchain**, I enjoy solving complex problems and developing innovative solutions.  
+I am a Computer Engineering graduate from Lokmanya Tilak College of Engineering, driven by a strong passion for software development, machine learning, and cybersecurity. My internships have allowed me to work on impactful projects—ranging from AI/ML applications at InternPe and CryptoChakra to secure software development at GajShield Firewall. I have also taken on leadership roles, including serving as President of the Computer Science Engineering Students’ Association (CSESA) and Documentation Head at the GeeksforGeeks Student Chapter, which strengthened my organizational and communication skills. I am enthusiastic about solving real-world problems through data-driven solutions and continue to grow through hands-on experience, collaboration, and continuous learning. I’m now seeking opportunities where I can apply my technical expertise and leadership experience to contribute meaningfully in dynamic, innovation-focused environments.
 
 ## 🔧 Skills  
 - **Programming & Frameworks:** Python, HTML, CSS, JavaScript, C, React, TensorFlow  
