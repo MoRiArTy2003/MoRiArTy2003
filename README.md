@@ -1,83 +1,190 @@
-# 👋 Hi, I’m Ameya Mhatre (@MoRiArTy2003)  
+<!-- ================= HEADER ================= -->
 
-## 👀 About Me  
-I am a Computer Engineering graduate from Lokmanya Tilak College of Engineering, driven by a strong passion for software development, machine learning, and cybersecurity. My internships have allowed me to work on impactful projects—ranging from AI/ML applications at InternPe and CryptoChakra to secure software development at GajShield Firewall. I have also taken on leadership roles, including serving as President of the Computer Science Engineering Students’ Association (CSESA) and Documentation Head at the GeeksforGeeks Student Chapter, which strengthened my organizational and communication skills. I am enthusiastic about solving real-world problems through data-driven solutions and continue to grow through hands-on experience, collaboration, and continuous learning. I’m now seeking opportunities where I can apply my technical expertise and leadership experience to contribute meaningfully in dynamic, innovation-focused environments.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ameya%20Mhatre&fontSize=48&fontColor=ffffff" />
+</p>
 
-## 🔧 Skills  
-- **Programming & Frameworks:** Python, HTML, CSS, JavaScript, C, React, TensorFlow  
-- **Tools & Databases:** DevOps, MySQL  
-- **Technologies:** Arduino, Linux  
-- **Soft Skills:** Problem-Solving, Teamwork, Leadership, Communication & Management  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer;Machine+Learning+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Production+Systems&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22">
+</p>
 
-## 💻 Projects  
-### 🔍 Panopticon: Image-to-Speech Conversion  
-📌 Developed an **OCR & NLP-based application** that converts images to text and speech using **Python**.  
-📌 Utilized **PIL, Pytesseract, and gTTS** for image processing, text extraction, and speech synthesis.  
-📌 Enhanced accessibility with optimized text extraction and smooth speech output.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ameya-mhatre3043/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ameya%20Mhatre-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MoRiArTy2003&style=for-the-badge&color=blue"/>
+</p>
 
-### 🥦 Organic Food Traceability System  
-📌 Built a **Blockchain-based system** using **smart contracts** for secure and transparent supply chain tracking.  
-📌 Integrated **Ethereum & Solidity** to ensure **tamper-proof transaction records**.  
-📌 Implemented **decentralized data storage** for real-time product verification and traceability.  
+---
 
-### 🛡️ CSRF Detection & Prevention  
-📌 Implemented **CSRF protection** using **synchronizer tokens & SameSite cookie attributes**.  
-📌 Developed **middleware-based CSRF detection** using **Python & JavaScript** to monitor and block malicious requests.  
-📌 Integrated **web security headers (CSP, CORS)** to enhance application security.  
+# 👨‍💻 About Me
 
-### 🧏 AI-Powered Sign Language Learning App *(Hackathon Project - College Qualifier)*  
-📌 Developed an **ML-based sign language translation system** using **TensorFlow** for **ISL recognition**.  
-📌 Built a **full-stack app** with **Node.js & MongoDB** for efficient data storage and user management.  
-📌 Implemented **real-time speech-to-text & text-to-ISL conversion** using **NLP & WebSockets**.  
+I am a results-driven **Software Developer** with strong foundations in:
 
-### 📖 Log Analyzer for Firewall Log Intelligence
-📌 Technology Stack: Python, Streamlit, Pandas, Regex
-📌 Developed an interactive dashboard for parsing and visualizing Firewall logs using Streamlit
-📌Implemented security pattern detection and anomaly analysis to identify potential threats.
-📌Engineered flexible support for ingesting and processing varied log file formats.
+- Data Structures & Algorithms  
+- Machine Learning & Applied AI  
+- Cloud Computing (AWS & GCP)  
+- DevOps & Infrastructure Automation  
+- Backend System Design  
 
+I focus on building **scalable, production-ready systems** by combining intelligent models with solid engineering practices.
 
-## 🏢 Work Experience  
-### **💹 CyptoChakra - Machine Learning Intern (June 2025 - Present)**
-✅Designing and iterating machine learning models for Bitcoin and altcoin price prediction using Python and TensorFlow.
-✅Collaborating in agile sprints with data engineers and blockchain developers to refine forecasting models
-✅Main experiment logs, code repositories, and documented model improvements for future scalability
+My goal is to engineer systems that are not just functional — but **efficient, reliable, and scalable.**
 
-### **🔐 Gajshield Firewall - SDE Intern (Sep 2024 - Jan 2025)**  
-✅ Developed a **Log Analyzer** using **Streamlit Framework**.  
-✅ Tested connections between **data sources** to fetch log data.  
+---
 
-### **🤖 Internpe - AIML Intern (Mar 2025 - Present)**  
-✅ Developed and implemented **ML models** for **data analysis & prediction**.  
-✅ Worked on **data processing, feature engineering & model evaluation**.  
-✅ Collaborated on **deploying AIML projects** using **Python & TensorFlow**.  
+# 🧠 Core Domains
 
-### **📊 Quadrant Resources - UHRS Intern (Mar 2022 - May 2022)**  
-✅ Worked on **data labeling** for **AI applications**.  
+- Machine Learning & Data Science  
+- Backend Development  
+- Cloud-Native Systems  
+- DevOps & CI/CD Automation  
+- Security & System Reliability  
 
-## 🎓 Education  
-- **B.E. in Computer Science (IoT, Cybersecurity & Blockchain)** - Lokmanya Tilak College of Engineering *(CGPA: 7.71/10)* *(June 2025)*  
+---
 
-## 🌟 Extracurricular Activities  
-- 🎓 **President, Computer Science Engineering Students Association (LTCE)**  
-  - Led an **Arduino Hands-on Workshop** covering **embedded systems, sensor integration & microcontroller programming**.  
-  - Managed **technical initiatives & industry collaborations**.  
-  - Supervised and mentored junior council members.  
+# 🛠️ Technical Stack
 
-- 🚀 **Event Operations Head, Google Developer Student Club (LTCE)**  
-  - Organized **workshops, hackathons & tech talks**.  
-  - Coordinated with **speakers, mentors & teams** for seamless event execution.  
+## 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+</p>
 
-- 📜 **Documentation Head, GeeksforGeeks**  
-  - Managed **technical documentation** ensuring **clarity & accuracy**.  
-  - Led **content structuring & review** using **Git, Markdown & Notion**.  
+---
 
-## 📜 Certifications  
-🏅 **Postman API Fundamentals - Student Expert Certification**  
+## 🤖 AI / Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical-black?style=flat&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=flat"/>
+<img src="https://img.shields.io/badge/Streamlit-Apps-red?style=flat&logo=streamlit"/>
+<img src="https://img.shields.io/badge/ARIMA-Time%20Series-purple?style=flat"/>
+<img src="https://img.shields.io/badge/NLP-Applications-ff69b4?style=flat"/>
+</p>
 
-## 📫 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MoRiArTy2003)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ameya-mhatre-70480822a/)  
-📧 ameya3043@gmail.com  
+---
 
-🚀 **Always eager to learn, build, and collaborate on exciting tech projects!**  
+## ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,githubactions,terraform,ansible,linux" />
+</p>
+
+**Practices & Concepts:**
+- CI/CD Pipeline Automation  
+- Infrastructure as Code (Terraform)  
+- Configuration Management (Ansible)  
+- Containerization & Orchestration  
+- GitOps Workflows  
+- Cloud Deployment Fundamentals  
+
+---
+
+## 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 Car Price Prediction System
+<p align="center">
+  <a href="https://github.com/MoRiArTy2003/Car-Price-Prediction-Using-Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoRiArTy2003&repo=Car-Price-Prediction-Using-Machine-Learning&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+- End-to-end regression pipeline  
+- Feature engineering & EDA  
+- Evaluated using R², MAE, RMSE  
+
+🎥 Demo:  
+https://www.linkedin.com/posts/ameya-mhatre3043_machinelearning-datascience-carpriceprediction-activity-7312162825534083072-lCPV  
+
+---
+
+## 🩺 Diabetes Prediction System
+<p align="center">
+  <a href="https://github.com/MoRiArTy2003/Predicting-Diabetes-using-Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoRiArTy2003&repo=Predicting-Diabetes-using-Machine-Learning&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+- Classification using KNN & other ML models  
+- Precision, Recall, Accuracy evaluation  
+- Healthcare-focused predictive modeling  
+
+---
+
+## 🔐 CSRF Detection Framework
+- Built custom vulnerable test environment  
+- Designed detection & validation mechanisms  
+- Security-focused backend implementation  
+
+---
+
+## 📊 Log Analysis Dashboard
+- Streamlit-based firewall analytics tool  
+- SQL-powered querying  
+- Trend & anomaly detection  
+
+---
+
+## 💰 Bitcoin Price Prediction (Time Series)
+- ARIMA & ML-based forecasting  
+- MAPE evaluation  
+- Risk-adjusted performance analysis  
+
+---
+
+# 📜 Certifications
+
+- DevOps Fundamentals Certification  
+- Postman API Testing Certification  
+- Machine Learning Certification  
+- Python Programming Certification  
+- Cloud Fundamentals (AWS / GCP)  
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MoRiArTy2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=MoRiArTy2003&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoRiArTy2003&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Career Interests
+
+- Software Development Engineer (SDE)  
+- Machine Learning Engineer  
+- Cloud & DevOps Engineer  
+- Backend Systems  
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ameya-mhatre3043/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Engineering systems. Learning continuously. Building impact.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
